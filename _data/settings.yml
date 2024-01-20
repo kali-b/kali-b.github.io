@@ -8,8 +8,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    #- title: Default
-     # url: /default
+    - title: 'About Me'
+      url: '/1-about'
+    - title: 'My Portfolio'
+      url: '/2-portfolio'
+    - title: 'Photo Gallery'
+      url: '/3-photo-gallery'
+    - title: 'Blog'
+      url: '/4-blog'
+    - title: 'Resume'
+      url: '/5-resume'
 
 footer_settings:
   footer_tagline: I make making games easier. 
@@ -27,49 +35,49 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
-  snapchat_url: ''
-  youtube_url: ''
-  google-plus_url: ''
-  vimeo_url: ''
-  pinterest_url: ''
-  medium_url: ''
-  quora_url: ''
-  amazon_url: ''
-  apple_url: ''
-  android_url: ''
-  tumblr_url: ''
-  dribbble_url: ''
-  behance_url: ''
-  deviantart_url: ''
-  github_url: ''
-  reddit_url: ''
-  flickr_url: ''
-  etsy_url: ''
-  kickstarter_url: ''
-  soundcloud_url: ''
-  spotify_url: ''
-  bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: https://www.linkedin.com/in/kalibwakley/
+  github_url: https://github.com/kali-b
+  facebook_url: https://www.facebook.com/kbwakley/
+  instagram_url: https://www.instagram.com/kicksinchaos/
+  spotify_url: https://open.spotify.com/user/kicksinchaos
+#  twitter_url: ''
+#  snapchat_url: ''
+#  youtube_url: ''
+#  google-plus_url: ''
+#  vimeo_url: ''
+#  pinterest_url: ''
+#  medium_url: ''
+#  quora_url: ''
+#  amazon_url: ''
+#  apple_url: ''
+#  android_url: ''
+#  tumblr_url: ''
+#  dribbble_url: ''
+#  behance_url: ''
+#  deviantart_url: ''
+#  reddit_url: ''
+#  flickr_url: ''
+#  etsy_url: ''
+#  kickstarter_url: ''
+#  soundcloud_url: ''
+#  bandcamp_url: ''
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
-  border_color: '#dddddd'
+  background_color: '#B0C0BC'
+  background_alt_color: '#D1D1D1'
+  text_dark_color: '#2A2829'
+  text_medium_color: '#3D3C3D'
+  text_light_color: '#56675B'
+  accent_color: '#1895AE'
+  border_color: '#000000'
   hero_background_color: '#132930'
-  hero_text_color: '#ffffff'
+  hero_text_color: '#D1D1D1'
   error_color: '#D64541'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  title_font: '"Muli", sans-serif'
-  body_font: '"Muli", sans-serif'
+  title_font: '"Garamond", serif'
+  body_font: '"Trebuchet MS", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
